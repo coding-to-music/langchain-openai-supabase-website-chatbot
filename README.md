@@ -1,6 +1,6 @@
 # langchain-openai-supabase-website-chatbot
 
-# 🚀  🚀
+# 🚀 Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js 🚀
 
 https://github.com/coding-to-music/langchain-openai-supabase-website-chatbot
 

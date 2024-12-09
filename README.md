@@ -1,3 +1,29 @@
+# langchain-openai-supabase-website-chatbot
+
+# 🚀  🚀
+
+https://github.com/coding-to-music/langchain-openai-supabase-website-chatbot
+
+From / By https://github.com/mayooear/langchain-supabase-website-chatbot
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/langchain-openai-supabase-website-chatbot.git
+git push -u origin main
+```
+
+## Environment variables:
+
+```java
+
+```
+
 # LangChain & Supabase - Create a ChatGpt Chatbot for Your Website
 
 Create a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js. LangChain is a framework that makes it easier to build scalable AI/LLM apps. Supabase is an open source Postgres database that can store embeddings using a pg vector extension.

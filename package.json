@@ -6,6 +6,7 @@
   "author": "Mayooear",
   "type": "module",
   "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

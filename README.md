@@ -4,6 +4,8 @@
 
 https://github.com/coding-to-music/langchain-openai-supabase-website-chatbot
 
+https://langchain-openai-supabase-website-chatbot.vercel.app/
+
 From / By https://github.com/mayooear/langchain-supabase-website-chatbot
 
 ## GitHub
